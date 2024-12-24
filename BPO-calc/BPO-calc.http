@@ -1,0 +1,6 @@
+@BPO_calc_HostAddress = http://localhost:5131
+
+GET {{BPO_calc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
